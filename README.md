@@ -1,2 +1,2 @@
 # HOD
-iam gopi chandu dhulipalla
+iam gopi chandu dhulipall
